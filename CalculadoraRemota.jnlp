@@ -1,0 +1,19 @@
+<?xml version version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://www.pildorasinformaticas.es/archivos/java" href="CalculadoraRemota.jnlp" >
+<information>
+	<title>Desmostracion de aplicacion de Calculadora</title>
+	<vendor>Andres</vendor>
+	<description>Una calculadora</description>
+	
+</information>
+
+<resources>
+	<j2se version="17.0+"/>
+	<jar href="Ejercicio87_Calculadora_Java_Web_Start.jar"/>
+</resources>
+
+<application-desc main-class="Calculadora">
+</application-desc>
+
+</jnlp>
+
