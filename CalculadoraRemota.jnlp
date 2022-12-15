@@ -1,5 +1,5 @@
 <?xml version version="1.0" encoding="utf-8"?>
-<jnlp spec="1.0+" codebase="http://www.pildorasinformaticas.es/archivos/java" href="CalculadoraRemota.jnlp" >
+<jnlp spec="1.0+" codebase="https://github.com/Andreshasta/PruebasJava.git" href="CalculadoraRemota.jnlp" >
 <information>
 	<title>Desmostracion de aplicacion de Calculadora</title>
 	<vendor>Andres</vendor>
