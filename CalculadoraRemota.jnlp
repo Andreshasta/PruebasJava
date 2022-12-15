@@ -9,7 +9,7 @@
 
 <resources>
 	<j2se version="17.0+"/>
-	<jar href="https://github.com/Andreshasta/PruebasJava/blob/322d3fc2a5463593b72a3956df6e5e23f66a291d/CalculadoraRemota.jnlp"/>Información</a>
+	<jar href="CalculadoraRemota.jnlp"/>
 </resources>
 
 <application-desc main-class="Calculadora">
